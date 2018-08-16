@@ -3,4 +3,5 @@ ti3sample
 *.o
 *.hi
 .stack-work
-ti3-game-board.*
+ti3-game-board.png
+assets/board.jpg
