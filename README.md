@@ -1,4 +1,7 @@
 # ti-sampler
+-----
+
+[![BSD License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/jtobin/hnuts/blob/master/LICENSE)
 
 Sample random board locations in a TI3 game.
 
@@ -33,3 +36,5 @@ Rex
 
 The first argument is the number of players -- the second is the desired tile
 proportion.
+
+![](https://jtobin-dropshare.s3-ap-southeast-2.amazonaws.com/OhQry995Ro.png)
