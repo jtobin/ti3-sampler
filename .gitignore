@@ -3,3 +3,4 @@ ti3sample
 *.o
 *.hi
 .stack-work
+ti3-game-board.*
