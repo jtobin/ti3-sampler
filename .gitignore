@@ -2,3 +2,4 @@ ti3sample
 *swp
 *.o
 *.hi
+.stack-work
