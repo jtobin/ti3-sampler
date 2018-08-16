@@ -1,4 +1,4 @@
-# ti-sampler  [![BSD License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/jtobin/hnuts/blob/master/LICENSE)
+# ti3-sampler  [![BSD License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/jtobin/hnuts/blob/master/LICENSE)
 
 ![](/assets/ti3-game-board.jpg)
 
