@@ -1,6 +1,6 @@
 # ti-sampler  [![BSD License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/jtobin/hnuts/blob/master/LICENSE)
 
-![](/assets/board.jpg)
+![](/assets/ti3-game-board.jpg)
 
 Sample random board locations in a TI3 game.
 
